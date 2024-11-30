@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://127.0.0.1/salon-beauty-hair/">
+  <channel>
+    <title>Salón Beauty Hair</title>
+    <link>http://127.0.0.1/salon-beauty-hair/</link>
+    <description/>
+    <language>es</language>
+    
+    <item>
+  <title>Maquillaje</title>
+  <link>http://127.0.0.1/salon-beauty-hair/maquillaje</link>
+  <description>
+&lt;span&gt;Maquillaje&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-11-28T12:56:05-06:00" title="Jueves, Noviembre 28, 2024 - 12:56"&gt;Jue, 28/11/2024 - 12:56&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Thu, 28 Nov 2024 18:56:05 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">19 at http://127.0.0.1/salon-beauty-hair</guid>
+    </item>
+
+  </channel>
+</rss>
